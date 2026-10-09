@@ -7,7 +7,7 @@ language: Swift
 
 # SoundDash
 
-SoundDash is a native macOS menu-bar app for routing your Mac’s system audio to one or more selected audio outputs at the same time. Choose Left, Stereo, or Right channel mode for each output:
+[SoundDash](https://dashapps.app/sounddash/) is a native macOS menu-bar app for routing your Mac’s system audio to one or more selected audio outputs at the same time. Choose Left, Stereo, or Right channel mode for each output:
 
 ```text
 Left    L/L   The source’s left channel plays through both output channels.
