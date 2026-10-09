@@ -1,16 +1,26 @@
-<?xml version="1.0" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-    <channel>
-        <title>SoundDash</title>
-        <item>
-            <title>1.1</title>
-            <pubDate>Fri, 09 Oct 2026 13:03:14 -0400</pubDate>
-            <link>https://github.com/marcoue/SoundDash-Support</link>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://github.com/marcoue/SoundDash-Support/releases/tag/1.1_3</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/marcoue/SoundDash-Support/releases/download/1.1_3/SoundDash.dmg" length="3384389" type="application/octet-stream" sparkle:edSignature="CKbkRNBmpHpel42e4U5S48CVLiGdsQIoFCxTgmuHGqQF3FXkwu6R6UZyAhooggIgzdfxZetLE68obj+fooOKDA=="/>
-        </item>
-    </channel>
+  <channel>
+    <title>SoundDash</title>
+    <item>
+      <title>1.1.1</title>
+      <pubDate>Fri, 09 Oct 2026 13:42:33 -0400</pubDate>
+      <link>https://github.com/marcoue/SoundDash-Support</link>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/marcoue/SoundDash-Support/releases/tag/1.1.1_4</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/marcoue/SoundDash-Support/releases/download/1.1.1_4/SoundDash.dmg" length="3384425" type="application/octet-stream" sparkle:edSignature="OEIhVQORH0Mxz95bPLy2Xxfba+nW7QcdznVcxmGawT9SEK6eZUkO4lK2/96DPD5hr8jbVKJ7vSsCfP7HCoaLBg==" />
+    </item>
+    <item>
+      <title>1.1</title>
+      <pubDate>Fri, 09 Oct 2026 13:03:14 -0400</pubDate>
+      <link>https://github.com/marcoue/SoundDash-Support</link>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/marcoue/SoundDash-Support/releases/tag/1.1_3</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/marcoue/SoundDash-Support/releases/download/1.1_3/SoundDash.dmg" length="3384389" type="application/octet-stream" sparkle:edSignature="CKbkRNBmpHpel42e4U5S48CVLiGdsQIoFCxTgmuHGqQF3FXkwu6R6UZyAhooggIgzdfxZetLE68obj+fooOKDA==" />
+    </item>
+  </channel>
 </rss>
