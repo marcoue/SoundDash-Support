@@ -9,8 +9,8 @@
       <sparkle:version>6</sparkle:version>
       <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-      <sparkle:releaseNotesLink>https://github.com/marcoue/SoundDash-Support/releases/tag/1.1_6</sparkle:releaseNotesLink>
-      <enclosure url="https://github.com/marcoue/SoundDash-Support/releases/download/1.1_6/SoundDash.dmg" length="3862210" type="application/octet-stream" sparkle:edSignature="CJZXRG+yzEUHsOIrsyp4WUe/lHAwU1VokMWs7KIUWB/upiBtUoRiox6ukyCk2Ty2FvvY3RM4jVZpgBL/QXYHCQ==" />
+      <sparkle:releaseNotesLink>https://github.com/marcoue/SoundDash-Support/releases/tag/1.2_6</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/marcoue/SoundDash-Support/releases/download/1.2_6/SoundDash.dmg" length="3862210" type="application/octet-stream" sparkle:edSignature="CJZXRG+yzEUHsOIrsyp4WUe/lHAwU1VokMWs7KIUWB/upiBtUoRiox6ukyCk2Ty2FvvY3RM4jVZpgBL/QXYHCQ==" />
     </item>
     <item>
       <title>1.1.1</title>
