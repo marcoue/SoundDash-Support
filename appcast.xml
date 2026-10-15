@@ -3,6 +3,16 @@
   <channel>
     <title>SoundDash</title>
     <item>
+      <title>1.2</title>
+      <pubDate>Thu, 15 Oct 2026 08:04:06 -0400</pubDate>
+      <link>https://github.com/marcoue/SoundDash-Support</link>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/marcoue/SoundDash-Support/releases/tag/1.1_6</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/marcoue/SoundDash-Support/releases/download/1.1_6/SoundDash.dmg" length="3862210" type="application/octet-stream" sparkle:edSignature="CJZXRG+yzEUHsOIrsyp4WUe/lHAwU1VokMWs7KIUWB/upiBtUoRiox6ukyCk2Ty2FvvY3RM4jVZpgBL/QXYHCQ==" />
+    </item>
+    <item>
       <title>1.1.1</title>
       <pubDate>Fri, 09 Oct 2026 13:42:33 -0400</pubDate>
       <link>https://github.com/marcoue/SoundDash-Support</link>
