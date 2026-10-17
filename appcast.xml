@@ -9,8 +9,7 @@
       <sparkle:version>7</sparkle:version>
       <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-      <description sparkle:format="markdown"># MODIFY FROM HERE IN MARKDOWN---&gt;
-## What’s New in SoundDash 2.0
+      <description sparkle:format="markdown">## What’s New in SoundDash 2.0
 
 - Route your Mac’s audio to compatible AirPlay speakers without changing its selected audio output.
 - Connect up to five AirPlay speakers at once and see each speaker’s connection status.
@@ -21,8 +20,7 @@
 - Save up to 10 named profiles with audio routing and sound settings, then switch between them from the dashboard or menu bar.
 - Profile edits are saved automatically. Choose Edit Profile to open the selected profile’s Audio Routing page.
 - Choose built-in EQ presets or save up to 10 custom presets. Load, rename, delete, or update a preset, or save your changes as a new preset.
-- Export and import your current setup and saved profiles between Macs. Matching devices are selected automatically where possible; review any unresolved devices during import.
-# &lt;--- TO HERE</description>
+- Export and import your current setup and saved profiles between Macs. Matching devices are selected automatically where possible; review any unresolved devices during import.</description>
       <enclosure url="https://github.com/marcoue/SoundDash-Support/releases/download/2.0_7/SoundDash.dmg" length="4987650" type="application/octet-stream" sparkle:edSignature="1hch0+pnobuboH/btrxQ2kOUYekeO2hBWhb8AogpsNL8G8vAE45mc//SwOOfoZ4yDtvqbbPfP3Gs1trPwTmLDQ==" />
     </item>
     <item>
