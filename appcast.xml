@@ -3,6 +3,20 @@
   <channel>
     <title>SoundDash</title>
     <item>
+      <title>2.0.1</title>
+      <pubDate>Mon, 02 Nov 2026 17:05:21 -0500</pubDate>
+      <link>https://github.com/marcoue/SoundDash-Support</link>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description sparkle:format="markdown">## What’s New in SoundDash 2.0.1
+
+- Restoring settings now preserves the destination Mac’s master volume and applies only custom per-output volume levels.
+- Added localization keys for links
+- Reduce audio filter CPU and energy use</description>
+      <enclosure url="https://github.com/marcoue/SoundDash-Support/releases/download/2.0.1_8/SoundDash.dmg" length="5012663" type="application/octet-stream" sparkle:edSignature="Lpkk22G9+Tj5D1aSWs7zJLqYwaaw0z7yVsuYUjvObwYsJrjq2G9+V2/z/QSdzthxy97VRdxqB2ZisrucPzIzBg==" />
+    </item>
+    <item>
       <title>2.0</title>
       <pubDate>Sat, 17 Oct 2026 17:07:35 -0400</pubDate>
       <link>https://github.com/marcoue/SoundDash-Support</link>
